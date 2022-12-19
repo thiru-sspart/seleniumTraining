@@ -6,8 +6,8 @@
     </listeners>
     <test verbose="2" preserve-order="true" name="testInChrome">
         <classes>
-            <class name="testNgTestCases.AmazonHomePageTestcase"/>
-            <class name="testNgTestCases.AmazonProductValidation"></class>
+            <class name="runners.TestRunner"/>
+<!--            <class name="testNgTestCases.AmazonProductValidation"></class>-->
         </classes>
  </test>
 

@@ -10,8 +10,6 @@ import utils.DriverUtil;
 
 public class AmazonProductValidation {
 
-
-
     @Test
     public void test2() {
         HomePage home= new HomePage();

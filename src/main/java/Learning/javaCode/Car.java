@@ -19,6 +19,11 @@ public class Car implements Vehicles {
       System.out.println("I can raise");
     }
 
+    @Override
+    public void m3() {
+
+    }
+
     public  void displayCar() {
         System.out.println("Hii");
     }

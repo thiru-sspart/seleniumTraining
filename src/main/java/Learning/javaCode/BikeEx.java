@@ -75,4 +75,9 @@ public class BikeEx implements Vehicles{
     public void racing() {
 
     }
+
+    @Override
+    public void m3() {
+
+    }
 }

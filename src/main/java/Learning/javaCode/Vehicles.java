@@ -10,4 +10,6 @@ public interface Vehicles {
 
     void racing();
 
+    void m3() ;
+
 }
