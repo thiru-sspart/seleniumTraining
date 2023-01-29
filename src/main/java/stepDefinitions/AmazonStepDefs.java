@@ -30,6 +30,7 @@ public class AmazonStepDefs {
     @When("I click on search Button")
     public void i_click_on_search_button() {
         home.clickSearchButton();
+        System.out.println("Hiii");
     }
 
     @Given("I launch the driver")
